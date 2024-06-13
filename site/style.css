@@ -10,6 +10,7 @@
 
 body {
   background: url(./assets/bg-mobile-laranja.jpeg) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
